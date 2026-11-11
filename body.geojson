@@ -24,6 +24,18 @@
         "type": "Point",
         "coordinates": [14.42, 50.08]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nazev": "Ružomberok",
+        "popsiek": "Moje rodne mesto."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.3083, 49.0786]
+      }
     }
   ]
 }
