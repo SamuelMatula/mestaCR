@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nazev": "Olomouc",
+        "popsiek": "Historické město na Hané se sloupem Nejsvětější Trojice."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.2538, 49.596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nazev": "Praha",
+        "popsiek": "Hlavní město Česka na řece Vltavě."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.42, 50.08]
+      }
+    }
+  ]
+}
